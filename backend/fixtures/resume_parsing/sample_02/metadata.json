@@ -1,0 +1,16 @@
+{
+  "required_keywords": [
+    "Python",
+    "FastAPI",
+    "Docker",
+    "Postgres",
+    "项目经历"
+  ],
+  "required_sections": [
+    "基本信息",
+    "技能",
+    "项目经历",
+    "教育经历"
+  ]
+}
+

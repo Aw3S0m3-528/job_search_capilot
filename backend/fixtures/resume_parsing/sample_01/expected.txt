@@ -1,0 +1,17 @@
+基本信息
+张三
+邮箱 zhangsan@example.com
+GitHub github.com/zhangsan
+
+技能
+Python, FastAPI, React, Postgres, Docker, LangGraph, RAG, CI/CD
+
+工作经历
+后端工程师，负责生产级 API、数据看板和内部知识库系统。
+
+项目经历
+Job Search Copilot：使用 LangGraph 设计多节点 Agent 工作流，使用 RAG 检索候选人证据，并通过 DeepSeek 生成有证据约束的简历 bullet。
+
+教育经历
+计算机科学 本科
+

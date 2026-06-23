@@ -1,0 +1,16 @@
+.env
+.venv/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+
+node_modules/
+dist/
+.vite/
+
+*.log
+
+# Real personal resume fixtures stay local.
+backend/fixtures/resume_parsing/sample_03/
